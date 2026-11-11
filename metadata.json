@@ -1,0 +1,8 @@
+{
+  "name": "ResQPath",
+  "description": "Intelligent Emergency Ambulance Routing and Dispatch System. Faster Routes. Smarter Response. Saving Lives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
